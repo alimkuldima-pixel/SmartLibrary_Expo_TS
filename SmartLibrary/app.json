@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "SmartLibrary",
+    "slug": "smartlibrary",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
